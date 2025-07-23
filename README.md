@@ -1,7 +1,5 @@
-# Blinkit-data-analysis-dashboard
-Exploratory Data Analysis and Power BI dashboard on Blinkit data using Python
 # Blinkit Data Analysis Dashboard
-
+Exploratory Data Analysis and Power BI dashboard on Blinkit data using Python.
 This project explores Blinkit's annual customer and sales data using Python (Pandas, Matplotlib, Seaborn) and visualizes key insights using Power BI.
 
 🔍 Key Features:
