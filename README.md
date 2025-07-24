@@ -17,6 +17,9 @@ This project explores Blinkit's annual customer and sales data using Python (Pan
 - `blinkit_analysis.ipynb`
 - `blinkit_cleaned.csv`
 - `BlinkitDashboard.pbix
+  
+📷 Dashboard Preview
+  <img width="1373" height="767" alt="Screenshot 2025-07-24 175743" src="https://github.com/user-attachments/assets/0636f775-a7c5-4e8e-bd85-7eaef8285fe4" />
 
 
 📌 Insights Summary:
